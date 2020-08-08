@@ -7,11 +7,18 @@ namespace CRITTERS_
     {
         static void Main(string[] args)
         {
-            GameManager probando = new GameManager();
-            Console.WriteLine(probando.ThrowCritter());
+            GameManager Juego = new GameManager();
+            Console.WriteLine(Juego.ThrowCritter());
+            while (Console.ReadLine() != null)
+            {
+                Juego.Combat(Juego.fightingCritter1, Juego.fightingCritter2);
+            }
+
            
-          
-            
+
+
+
+
         }
     }
 }

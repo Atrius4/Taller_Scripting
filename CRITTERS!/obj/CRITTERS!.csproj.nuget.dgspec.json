@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrew\\source\\repos\\CRITTERS!\\CRITTERS!\\CRITTERS!.csproj": {}
+    "C:\\Users\\Andrew\\source\\repos\\CRITTERS!\\Taller_Scripting\\CRITTERS!\\CRITTERS!.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrew\\source\\repos\\CRITTERS!\\CRITTERS!\\CRITTERS!.csproj": {
+    "C:\\Users\\Andrew\\source\\repos\\CRITTERS!\\Taller_Scripting\\CRITTERS!\\CRITTERS!.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrew\\source\\repos\\CRITTERS!\\CRITTERS!\\CRITTERS!.csproj",
+        "projectUniqueName": "C:\\Users\\Andrew\\source\\repos\\CRITTERS!\\Taller_Scripting\\CRITTERS!\\CRITTERS!.csproj",
         "projectName": "CRITTERS!",
-        "projectPath": "C:\\Users\\Andrew\\source\\repos\\CRITTERS!\\CRITTERS!\\CRITTERS!.csproj",
+        "projectPath": "C:\\Users\\Andrew\\source\\repos\\CRITTERS!\\Taller_Scripting\\CRITTERS!\\CRITTERS!.csproj",
         "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrew\\source\\repos\\CRITTERS!\\CRITTERS!\\obj\\",
+        "outputPath": "C:\\Users\\Andrew\\source\\repos\\CRITTERS!\\Taller_Scripting\\CRITTERS!\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",

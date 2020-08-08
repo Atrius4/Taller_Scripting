@@ -9,6 +9,8 @@ namespace CRITTERS_
     {
         public string Name { get; protected set; }
         public int Power { get; protected set; }
+
+        string[] names = { "Anillazo", "Boosted", "Telaraña... espera que?", "Aliento mañanero", "Mordelon" };
         
 
 
@@ -23,9 +25,9 @@ namespace CRITTERS_
         }
 
         public Eaffinity Affinity { get; protected set; }
-        public Skill(string name,int power, int affinity)
+        public Skill(int name,int power, int affinity)
         {
-            Name = name;
+            Name = names[name];
             Power = power;
             SetAffinity(affinity);
         }

@@ -11,3 +11,16 @@ C:\Users\Andrew\source\repos\CRITTERS!\CRITTERS!\obj\Debug\netcoreapp3.1\CRITTER
 C:\Users\Andrew\source\repos\CRITTERS!\CRITTERS!\obj\Debug\netcoreapp3.1\CRITTERS!.dll
 C:\Users\Andrew\source\repos\CRITTERS!\CRITTERS!\obj\Debug\netcoreapp3.1\CRITTERS!.pdb
 C:\Users\Andrew\source\repos\CRITTERS!\CRITTERS!\obj\Debug\netcoreapp3.1\CRITTERS!.genruntimeconfig.cache
+C:\Users\Andrew\source\repos\CRITTERS!\Taller_Scripting\CRITTERS!\bin\Debug\netcoreapp3.1\CRITTERS!.exe
+C:\Users\Andrew\source\repos\CRITTERS!\Taller_Scripting\CRITTERS!\bin\Debug\netcoreapp3.1\CRITTERS!.deps.json
+C:\Users\Andrew\source\repos\CRITTERS!\Taller_Scripting\CRITTERS!\bin\Debug\netcoreapp3.1\CRITTERS!.runtimeconfig.json
+C:\Users\Andrew\source\repos\CRITTERS!\Taller_Scripting\CRITTERS!\bin\Debug\netcoreapp3.1\CRITTERS!.runtimeconfig.dev.json
+C:\Users\Andrew\source\repos\CRITTERS!\Taller_Scripting\CRITTERS!\bin\Debug\netcoreapp3.1\CRITTERS!.dll
+C:\Users\Andrew\source\repos\CRITTERS!\Taller_Scripting\CRITTERS!\bin\Debug\netcoreapp3.1\CRITTERS!.pdb
+C:\Users\Andrew\source\repos\CRITTERS!\Taller_Scripting\CRITTERS!\obj\Debug\netcoreapp3.1\CRITTERS!.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\CRITTERS!\Taller_Scripting\CRITTERS!\obj\Debug\netcoreapp3.1\CRITTERS!.AssemblyInfoInputs.cache
+C:\Users\Andrew\source\repos\CRITTERS!\Taller_Scripting\CRITTERS!\obj\Debug\netcoreapp3.1\CRITTERS!.AssemblyInfo.cs
+C:\Users\Andrew\source\repos\CRITTERS!\Taller_Scripting\CRITTERS!\obj\Debug\netcoreapp3.1\CRITTERS!.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\CRITTERS!\Taller_Scripting\CRITTERS!\obj\Debug\netcoreapp3.1\CRITTERS!.dll
+C:\Users\Andrew\source\repos\CRITTERS!\Taller_Scripting\CRITTERS!\obj\Debug\netcoreapp3.1\CRITTERS!.pdb
+C:\Users\Andrew\source\repos\CRITTERS!\Taller_Scripting\CRITTERS!\obj\Debug\netcoreapp3.1\CRITTERS!.genruntimeconfig.cache

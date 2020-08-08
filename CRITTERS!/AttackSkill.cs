@@ -7,7 +7,7 @@ namespace CRITTERS_
     class AttackSkill : Skill
     {
         
-        public AttackSkill(string name, int power, int affinity) : base(name,power,affinity)
+        public AttackSkill(int name, int power, int affinity) : base(name,power,affinity)
         {
 
         }

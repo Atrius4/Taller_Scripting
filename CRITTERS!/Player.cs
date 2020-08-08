@@ -19,9 +19,9 @@ namespace CRITTERS_
             if (fillingCritters == critters)
             {
                 
-                for (int i = 0; i < random.Next(1, 4); i++)
+                for (int i = 0; i < numberCritters; i++)
                 {
-                    critters.Enqueue(new Critter("Chorizard", random.Next(1, 101), random.Next(1, 101), random.Next(1, 51), random.Next(1, 101), random.Next(1, 7)));
+                    critters.Enqueue(new Critter(random.Next(0,6), random.Next(1, 101), random.Next(1, 101), random.Next(1, 51), random.Next(1, 101), random.Next(1, 7)));
                 }
             }
         }
